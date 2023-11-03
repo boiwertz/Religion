@@ -5,4 +5,3 @@ print(msg)
 
 print(np.random.randint(1,9))
 print(msg)
-print(msg)
