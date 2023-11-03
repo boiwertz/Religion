@@ -3,10 +3,6 @@
 		{
 			"name": "Religion",
 			"path": "."
-		},
-		{
-			"name": "archive",
-			"path": "../Desktop/archive"
 		}
 	],
 	"settings": {}
